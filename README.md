@@ -1,0 +1,2 @@
+# springmvchibernate
+整合springmvc和hibernate
